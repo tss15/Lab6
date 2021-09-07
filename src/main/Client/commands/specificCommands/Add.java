@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 public class Add extends Command implements Serializable {
     private Receiver receiver;
-    private static final long serialVersionUID = 1234567L;
+    private static final long serialVersionUID = 1502L;
 
     public Add(){
 

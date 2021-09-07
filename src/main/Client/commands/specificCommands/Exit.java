@@ -7,7 +7,7 @@ import java.io.Serializable;
 public class Exit extends Command implements Serializable {
 
     private final Receiver receiver;
-    private static final long serialVersionUID = 1234567L;
+    private static final long serialVersionUID = 1502L;
 
 
     public Exit(Receiver receiver){

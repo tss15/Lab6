@@ -7,7 +7,7 @@ import java.io.IOException;
 public class Show extends Command implements Serializable {
 
     private Receiver receiver;
-    private static final long serialVersionUID = 1234567L;
+    private static final long serialVersionUID = 1502L;
 
     public Show(){
 

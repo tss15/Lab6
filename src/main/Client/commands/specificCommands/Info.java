@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.Serializable;
 public class Info extends Command implements Serializable {
 
-    private static final long serialVersionUID = 1234567L;
+    private static final long serialVersionUID = 1502L;
     private Receiver receiver;
 
     public Info(){
