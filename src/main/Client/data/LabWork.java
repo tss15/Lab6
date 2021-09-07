@@ -4,6 +4,7 @@ import java.io.Serializable;
 import java.time.LocalDateTime;
 
 public class LabWork implements Serializable {
+    private static final long serialVersionUID = 1502L;
     private long id;
     private String name;
     private Coordinates coordinates;
